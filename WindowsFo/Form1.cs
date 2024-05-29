@@ -19,7 +19,7 @@ namespace WindowsFo
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Console.WriteLine("HIhi");
+            Console.WriteLine("bye bye");
         }
     }
 }
